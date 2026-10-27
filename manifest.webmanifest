@@ -1,0 +1,30 @@
+{
+  "name": "midicn · AI 做音乐",
+  "short_name": "AI 做音乐",
+  "description": "用 AI 把一首曲子做出来 —— 工具选型、提示词到成品、可控性、交付与合规；不讲声音原理（→ prod），不讲乐理（→ theo）。",
+  "start_url": "./",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#070706",
+  "theme_color": "#FF6FA8",
+  "lang": "zh-Hans",
+  "icons": [
+    {
+      "src": "assets/core/icons/icon-192.38fcdb520a.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-512.5be5e2f189.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    },
+    {
+      "src": "assets/core/icons/icon-maskable-512.7193f36edd.png",
+      "sizes": "512x512",
+      "type": "image/png",
+      "purpose": "maskable"
+    }
+  ]
+}
