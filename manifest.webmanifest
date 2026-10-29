@@ -1,7 +1,7 @@
 {
   "name": "midicn · AI 做音乐",
   "short_name": "AI 做音乐",
-  "description": "用 AI 把一首曲子做出来 —— 工具选型、提示词到成品、可控性、交付与合规；不讲声音原理（→ prod），不讲乐理（→ theo）。",
+  "description": "用 AI 把一首曲子做出来 —— 工具选型、提示词到成品、可控性、交付与合规；不讲声音原理（→ 音频），不讲乐理（→ 乐理）。",
   "start_url": "./",
   "scope": "./",
   "display": "standalone",
