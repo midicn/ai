@@ -1,3 +1,79 @@
 User-agent: *
 Allow: /
+
+# Search access does not grant training or third-party material rights.
+User-agent: GPTBot
+Disallow: /
+
+User-agent: ClaudeBot
+Disallow: /
+
+User-agent: CCBot
+Disallow: /
+
+User-agent: Google-Extended
+Disallow: /
+
+User-agent: OAI-SearchBot
+Allow: /
+Disallow: /data/
+Disallow: /meta/
+Disallow: /midi/
+Disallow: /files/
+Disallow: /en/archive-formats/
+Disallow: /en/archiving-ai-work/
+Disallow: /en/choose-for-film-cue/
+Disallow: /en/extending-and-continuing/
+Disallow: /en/file-formats-and-stems/
+Disallow: /midi-generation-tools/
+Disallow: /en/midi-generation-tools/
+Disallow: /negative-prompts/
+Disallow: /en/negative-prompts/
+Disallow: /en/sample-realism/
+Disallow: /en/stem-naming/
+Disallow: /structure-control/
+Disallow: /en/structure-control/
+Disallow: /en/tool-ai-plugins/
+Disallow: /en/tool-ai-stems-in-daw/
+Disallow: /en/tool-ai-voice-in-daw/
+Disallow: /en/tool-daw-ai-features/
+Disallow: /en/trailer-music-ai/
+Disallow: /en/work-deliver-client/
+Disallow: /en/work-podcast-intro/
+Disallow: /en/work-remix/
+Disallow: /en/work-sample-flip/
+Disallow: /en/
+Disallow: /404.html
+
+User-agent: Claude-SearchBot
+Allow: /
+Disallow: /data/
+Disallow: /meta/
+Disallow: /midi/
+Disallow: /files/
+Disallow: /en/archive-formats/
+Disallow: /en/archiving-ai-work/
+Disallow: /en/choose-for-film-cue/
+Disallow: /en/extending-and-continuing/
+Disallow: /en/file-formats-and-stems/
+Disallow: /midi-generation-tools/
+Disallow: /en/midi-generation-tools/
+Disallow: /negative-prompts/
+Disallow: /en/negative-prompts/
+Disallow: /en/sample-realism/
+Disallow: /en/stem-naming/
+Disallow: /structure-control/
+Disallow: /en/structure-control/
+Disallow: /en/tool-ai-plugins/
+Disallow: /en/tool-ai-stems-in-daw/
+Disallow: /en/tool-ai-voice-in-daw/
+Disallow: /en/tool-daw-ai-features/
+Disallow: /en/trailer-music-ai/
+Disallow: /en/work-deliver-client/
+Disallow: /en/work-podcast-intro/
+Disallow: /en/work-remix/
+Disallow: /en/work-sample-flip/
+Disallow: /en/
+Disallow: /404.html
+
 Sitemap: https://ai.midicn.com/sitemap.xml

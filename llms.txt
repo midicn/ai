@@ -1,0 +1,35 @@
+# MIDI音乐 · AI 做音乐
+
+> 听音乐，学音乐，做音乐。
+
+查 AI 音乐工具的用途、流程、能力边界与使用条件。
+
+这是网站内容入口索引。收录与引用不改变原文、曲目、音色或歌词的许可；本文件不授予模型训练权。
+This curated discovery index grants no model-training or third-party material rights.
+
+## 网站与使用说明
+
+- [MIDI音乐：站点与使用说明](https://home.midicn.com/about/): 品牌、分站、来源与反馈。
+
+## 内容入口
+
+- [AI 做音乐 · midicn](https://ai.midicn.com/): 查 AI 音乐工具的用途、流程、能力边界与使用条件。
+- [关于 AI 做音乐 · AI 做音乐](https://ai.midicn.com/about/): AI 做音乐这一站讲什么、不讲什么，以及怎么读。
+- [口音与语言 · AI 做音乐](https://ai.midicn.com/accent-and-language/): 合成人声先过语种关，口音是重音与音素的位移，不是音色开关
+- [自适应音乐 · AI 做音乐](https://ai.midicn.com/adaptive-music-with-ai/): 分层与重排的前提是共享速度、调性和小节边界
+- [调用成本与配额 · AI 做音乐](https://ai.midicn.com/ai-api-cost-map/): 计费单位决定成本结构；先算一次任务真正跑几遍，再谈单价。
+- [数据驻留与隐私 · AI 做音乐](https://ai.midicn.com/ai-data-residency/): 上传之前先分清：素材去哪、留多久、会不会进入训练。
+- [影视配乐 · AI 做音乐](https://ai.midicn.com/ai-for-film-scoring/): AI 能出 temp 和短 cue，长片的结构与主题仍要人来写
+- [游戏音频 · AI 做音乐](https://ai.midicn.com/ai-for-game-audio/): 游戏要的是可循环可触发的资产，不是一首完整的曲子
+- [模型横向对照 · AI 做音乐](https://ai.midicn.com/ai-model-matrix/): 按输入、输出、可控性、授权四轴比较，先排除不合格再谈音质。
+- [工具地图 · AI 做音乐](https://ai.midicn.com/ai-music-tool-map/): AI 做音乐不是一个大工具，而是一串各管一段的小工具。
+- [退出与迁移 · AI 做音乐](https://ai.midicn.com/ai-vendor-exit/): 能不能走，取决于手里有没有可重建的素材、提示与记录。
+- [接口与应用 · AI 做音乐](https://ai.midicn.com/api-vs-app/): 应用给现成流程，接口给自动化，选哪个取决于你要重复做多少次。
+- [归档格式 · AI 做音乐](https://ai.midicn.com/archive-formats/): 归档选格式看的是十年后还能不能打开
+- [存档 · AI 做音乐](https://ai.midicn.com/archiving-ai-work/): 存档要保证三年后还能重剪、授权与举证
+- [编曲控制 · AI 做音乐](https://ai.midicn.com/arrangement-control/): 密度靠分配音区与角色，不靠一层层往上加
+- [署名与披露 · AI 做音乐](https://ai.midicn.com/attribution-and-disclosure/): 署名说谁做了什么，披露说怎么做的，两句都要短而具体
+
+## English
+
+- [MIDI Music](https://home.midicn.com/en/): Listen, learn and make music.
